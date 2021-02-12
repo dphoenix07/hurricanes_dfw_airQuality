@@ -1,0 +1,16 @@
+At Site 1, EPA exceedances of:       0.00000 at date: 2007-12-31 and time: 23:00
+At Site 2, EPA exceedances of:       84.2222 at date: 2007-08-14 and time: 08:00
+At Site 2, EPA exceedances of:       86.6667 at date: 2007-08-14 and time: 09:00
+At Site 2, EPA exceedances of:       86.3333 at date: 2007-08-14 and time: 10:00
+At Site 2, EPA exceedances of:       83.6667 at date: 2007-08-14 and time: 11:00
+At Site 2, EPA exceedances of:       80.4444 at date: 2007-08-14 and time: 12:00
+At Site 3, EPA exceedances of:       80.4444 at date: 2007-04-28 and time: 08:00
+At Site 3, EPA exceedances of:       83.5556 at date: 2007-04-28 and time: 09:00
+At Site 3, EPA exceedances of:       84.2222 at date: 2007-04-28 and time: 10:00
+At Site 3, EPA exceedances of:       81.7778 at date: 2007-04-28 and time: 11:00
+At Site 3, EPA exceedances of:       82.7778 at date: 2007-08-14 and time: 07:00
+At Site 3, EPA exceedances of:       91.2222 at date: 2007-08-14 and time: 08:00
+At Site 3, EPA exceedances of:       94.7778 at date: 2007-08-14 and time: 09:00
+At Site 3, EPA exceedances of:       95.1111 at date: 2007-08-14 and time: 10:00
+At Site 3, EPA exceedances of:       91.2222 at date: 2007-08-14 and time: 11:00
+At Site 3, EPA exceedances of:       84.6667 at date: 2007-08-14 and time: 12:00

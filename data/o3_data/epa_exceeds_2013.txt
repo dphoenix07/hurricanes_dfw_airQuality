@@ -1,0 +1,10 @@
+At Site 1, EPA exceedances of:       84.1111 at date: 2013-08-01 and time: 09:00
+At Site 1, EPA exceedances of:       86.4444 at date: 2013-08-01 and time: 10:00
+At Site 1, EPA exceedances of:       84.2222 at date: 2013-08-01 and time: 11:00
+At Site 1, EPA exceedances of:       80.8889 at date: 2013-08-29 and time: 11:00
+At Site 1, EPA exceedances of:       80.1111 at date: 2013-08-29 and time: 12:00
+At Site 1, EPA exceedances of:       80.1111 at date: 2013-09-04 and time: 10:00
+At Site 1, EPA exceedances of:       80.1111 at date: 2013-09-04 and time: 11:00
+At Site 2, EPA exceedances of:       80.4444 at date: 2013-08-29 and time: 11:00
+At Site 3, EPA exceedances of:       81.0000 at date: 2013-08-01 and time: 10:00
+At Site 3, EPA exceedances of:       80.2222 at date: 2013-08-01 and time: 11:00
